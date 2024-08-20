@@ -1,0 +1,20 @@
+{
+	"name": "validator",
+	"version": "1.0.0",
+	"description": "A form validator",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rondevs/validator.git"
+	},
+	"homepage": "https://github.com/rondevs/validator#readme",
+	"keywords": [
+		"validator",
+		"form-validator"
+	],
+	"author": "Shan-A-Rownok Bosunia",
+	"license": "MIT"
+}

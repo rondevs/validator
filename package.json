@@ -1,5 +1,5 @@
 {
-	"name": "validator",
+	"name": "@rondevs/validator",
 	"version": "1.0.0",
 	"description": "A form validator",
 	"main": "index.js",
